@@ -1,2 +1,2 @@
 # tfg-superconductors
-Code used for the numerical analysis in my Final Degree Project (TFG) in Physics at the University of Valencia
+Código utilizado para el análisis numérico de mi Trabajo de Fin de Grado (TFG) en Física en la Universidad de Valencia
