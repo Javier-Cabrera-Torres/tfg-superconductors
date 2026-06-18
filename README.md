@@ -6,7 +6,7 @@ Código utilizado para el análisis numérico de mi Trabajo de Fin de Grado en F
 
 **Autor:** Javier Cabrera Torres.
 
-**Tutor:** Daniel Errandonea Ponce.
+**Tutor:** Daniel Jorge Errandonea Ponce.
 
 ## Contenido
 
